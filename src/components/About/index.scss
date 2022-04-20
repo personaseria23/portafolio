@@ -18,6 +18,15 @@
   transform-origin: 100px 100px 0;
   margin-left: calc(50% - 100px);
 
+  a:link {
+    color: yellow;
+  }
+  a:visited{
+    color:yellow;
+  }
+  a:hover{
+    color:yellow;
+  }
   div {
     position: absolute;
     width: 200px;
