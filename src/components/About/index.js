@@ -46,7 +46,7 @@ const About = () => {
           Soy un niño de los 90's y como tal, amo Pokemon, los videojuegos, el cine (demasiado), los memes y los gatos. Mi Power Ranger favorito siempre es el rojo, y tengo una colección de VHS y DVDs.
           </p>
           <p>
-            Te invito a ver los proyectos en los qué he participado en mi github, y a descargar mi CV haciendo click <a href="https://github.com/personaseria23/portafolio/blob/main/Carlos%20Cubillos%20CV%20(1).pdf">aquí</a>
+            Te invito a ver los proyectos en los qué he participado en mi github, y a descargar mi CV haciendo click <a href="https://github.com/personaseria23/portafolio/blob/main/Carlos%20Cubillos%20CV%20(1).pdf" >aquí</a>
           </p>
         </div>
 
