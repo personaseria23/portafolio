@@ -43,10 +43,15 @@ const Home = () => {
         <div className="text-zone">
           <h1>
             <span className={letterClass}>H</span>
-            <span className={`${letterClass} _12`}>ola!</span>
+            <span className={`${letterClass} _12`}>o</span>
+            <span className={`${letterClass} _13`}>l</span>
+            <span className={`${letterClass} _14`}>a</span>
+            <span className={`${letterClass} _15`}>!</span>
+
             <br />
-            <span className={`${letterClass} _13`}>S</span>
-            <span className={`${letterClass} _14`}>oy</span>
+            <span className={`${letterClass} _16`}>S</span>
+            <span className={`${letterClass} _17`}>o</span>
+            <span className={`${letterClass} _17`}>y</span>
             <img
               src={LogoTitle}
               alt="Desarrollador de Javascript, Desarrollador Web"
