@@ -32,7 +32,7 @@ const About = () => {
             />
           </h1>
           <p>
-          Actualmente me encuentro cursando el último año de ingeniería de ejecución en informática en la PUCV, ,me considero apasionado por todo lo que implique crear y diseñar cosas en entorno web.
+          Ingeniero de ejecución en informática en la PUCV, me considero apasionado por todo lo que implique crear y diseñar cosas en entorno web.
           </p>
           <p align="LEFT">
           Scrum es mi metodología predilecta para trabajar, la aprendí en el curso 
